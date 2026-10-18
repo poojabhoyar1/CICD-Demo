@@ -34,7 +34,7 @@
 							<configuration>
 				<cloudHubDeployment>
 					<uri>https://anypoint.mulesoft.com</uri>
-					<muleVersion>4.12.1</muleVersion>
+					<muleVersion>4.12.5:2e</muleVersion>
 					<username>${username}</username>
 					<password>${password}</password>
 					<applicationName>cicd-app</applicationName>
